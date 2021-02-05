@@ -53,10 +53,11 @@ img {
 
 p {
   font-size: 1em;
+  color: blue;
 }
 
 a {
-  color: black;
+  color:purple;
   text-decoration: none;
 }
 
